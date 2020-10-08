@@ -133,7 +133,7 @@ function addCar() {
         color: $("#color").val(),
         year: $("#year").val(),
         price: $("#price").val(),
-        id: cars.length + 1,
+        id: cars.length + 1
 
     }
 
